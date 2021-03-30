@@ -1,7 +1,7 @@
 # Rayane-Webhook-Selfbot
 Selfbot qui vous permet de raid des serveurs avec des webhooks.
 
-Created by me
+Created by rayanee#0212
 
 🔰 avant d'allumer le bot :
 1 - cmd: `npm i`  
