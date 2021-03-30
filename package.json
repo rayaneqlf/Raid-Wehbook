@@ -1,0 +1,22 @@
+{
+  "name": "blackraid",
+  "version": "1.0.0",
+  "description": "A raid tool (webhook)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Twixty",
+  "license": "ISC",
+  "dependencies": {
+    "bufferutil": "^4.0.3",
+    "colors": "^1.4.0",
+    "discord-tts": "^1.0.3",
+    "discord.js": "^12.5.1",
+    "discord.js-self": "^12.0.4",
+    "discord.js-selfbotbypass": "^1.0.26",
+    "install": "^0.13.0",
+    "npm": "^6.14.11",
+    "utf-8-validate": "^5.0.4"
+  }
+}

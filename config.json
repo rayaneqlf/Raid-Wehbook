@@ -1,0 +1,11 @@
+{
+    "token": "TOKEN",
+    "serv": "ID SERVEUR",
+    "webhook": {
+        "name": "NOM DU WEHBOOK",
+        "avatar": "AVATAR DU WEBHOOK",
+        "spamMsg": "MESSAGES SPAM"
+    },
+    "ChannellMsgCount": "30",
+    "sleepMS": "90"
+}
