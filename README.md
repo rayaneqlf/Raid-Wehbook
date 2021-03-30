@@ -16,3 +16,4 @@ Created by me
 
 3 - allumer le bot avec le terminal en introduissant la commande -> `node index.js `
 
+support dm rayanee#0212
